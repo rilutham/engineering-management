@@ -1,0 +1,5 @@
+Category,Description,Example
+New Things, work towards your business objectives with new products_ features_ or integrations, implement new tools/platform_ try new approach to solve issues_ etc.
+Improving Things, improvements to existing features (including improvements in performance_ reliability_ and security), performance improvements_ improve reliability and usability_ etc.
+Productivity, mostly improvements to SRE/developer productivity but engineering organizations can also help scale many company operations, developer toolings_ infra improvements for future growth_ create automation to reduce toil_ etc.
+Keep The Lights On, necessary efforts to keep the current system operational, bug_ troubleshooting_ dependency updates_ routine tasks_ handling incidents_ etc.
