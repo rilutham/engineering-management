@@ -5,7 +5,7 @@ Value,5: We’re proud of what we deliver and our stakeholders are happy.
 "
 ,2: We deliver software that often causes more problems than it solves. Our stakeholders have flagged a few issues.
 ,1: We deliver software that often causes more problems than it solves. Our stakeholders don’t have trust in our ability to deliver.
-Ease to Release,"5: Making changes is simple, safe and painless. Deployment processes are efficient and effective."
+Ease to Making Changes,"5: Making changes is simple, safe and painless. Deployment processes are efficient and effective."
 ,4: Making changes is painless and straightforward but deployment processes could be more automated and effective.
 ,3: We run into change and deployment automation issues quite often when releasing and making changes.
 ,"2: Making a release is risky and a manual process. Making changes is simple, but not straightforward. It often results in failures. And the process is manual."
